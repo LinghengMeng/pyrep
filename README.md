@@ -3,12 +3,14 @@
 Simple python binding for
 [Coppelia Robotics V-REP simulator](http://www.coppeliarobotics.com/) ([remote API](http://www.coppeliarobotics.com/helpFiles/en/remoteApiOverview.htm)) of version 3.3.0
 
+This work is based on https://github.com/Troxid/vrep-api-python.
+
 ## Getting started
 
 0. Requirements: CPython version >= 3.5.2, pip
 1. Install library from PyPI by entering this command:
 ```bash
-[sudo] pip install 'git+https://github.com/Troxid/vrep-api-python'
+[sudo] pip install 'git+https://github.com/LinghengMeng/pyrep'
 ```
 
 ## V-Rep specific
